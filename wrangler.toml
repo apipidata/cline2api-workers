@@ -1,4 +1,5 @@
-name = "cline2api"
+# wrangler.toml
+name = 'cline2api-workers'
 main = "worker.js"
 compatibility_date = "2026-01-01"
 
